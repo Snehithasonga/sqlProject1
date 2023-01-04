@@ -1,4 +1,4 @@
-from tkinter import *
+﻿from tkinter import *
 from tkinter import messagebox
 from code2 import Mysql_Connector
 class Login_Page():
